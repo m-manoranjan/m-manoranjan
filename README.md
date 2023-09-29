@@ -42,7 +42,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 </td><td valign="top" width="50%">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />
+<img style="margin: 10px" src="https://github.com/m-manoranjan/m-manoranjan/googledp.gif" alt="PHP" height="80%" />
 
 </td></tr></table>  
 

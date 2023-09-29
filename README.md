@@ -30,7 +30,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top">
 
 - 🌱 I’m currently learning React and firebase duo.  
   
@@ -40,9 +40,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
-
-</td><td valign="top" width="50%">
-<img style="margin: 10px" src="https://github.com/m-manoranjan/m-manoranjan/googledp.gif" alt="PHP" height="80%" />
 
 </td></tr></table>  
 
